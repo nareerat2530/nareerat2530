@@ -3,7 +3,7 @@
 - 🌱I am in love with new technology.
 - 💞I am willing to learn new things
 - 📫 check out my profile here https://www.linkedin.com/in/nareerat-srisai 
-- keep coding :)
+- keep coding && smiling :)
 
 
 <!---
