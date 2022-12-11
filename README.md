@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nareerat Srisai
 - 👀 I have a passion for backend development. 
-- 🌱I am in love with new technology.
-- 💞I am willing to learn new things
+- 🌱I am in love with new technologies.
+- work hard pays off
 - 📫 check out my profile here https://www.linkedin.com/in/nareerat-srisai 
 - keep coding && smiling :)
 
